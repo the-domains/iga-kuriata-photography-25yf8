@@ -43,6 +43,9 @@ navigation:
   - name: yoyo
     id: 49eaf64a-9543-4d35-9b76-b1bb3978ac63
     type: content
+  - name: html
+    id: ff8b33af-9952-416b-947f-8aaea56ccddc
+    type: content
 purpose:
   - type: contact
     url: 'tel:004552692616'
