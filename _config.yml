@@ -1,0 +1,40 @@
+typography_spectrum: 0.009658073773607612
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.08734407369047403
+  lightness: 0.7664613977540284
+  saturation: 0.09904330223798752
+  rhythmicContrast: 0.7134880688972771
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cb3c7a0-e510-4e9b-9435-c0798dc43261.jpg
+  appId: 'https://www.facebook.com/IgaKuriataPhotography/'
+  type: 'https://www.facebook.com/IgaKuriataPhotography/'
+layout_spectrum: 0.7780394253786653
+author:
+  name: iga kuriata
+  email: igakuriata@outlook.com
+  url: 'https://www.facebook.com/IgaKuriataPhotography/'
+name: iga kuriata photography
+navigation:
+  - name: Moesgaard Colloseum
+    id: 146fb633-6114-437a-9150-6fcbcde7c85b
+    type: content
+  - name: Gladiators
+    id: baeab329-c003-4797-b54f-c55d4b9877ae
+    type: content
+purpose:
+  - type: contact
+    url: 'tel:004552692616'
+    label: 004552692616
+  - type: contact
+    url: 'mailto:igakuriata@outlook.com'
+    label: Contact me
