@@ -4,9 +4,16 @@
         <description><![CDATA[iga kuriata photography]]></description>
         <link>https://thegrid.ai/iga-kuriata-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Sep 2016 16:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2016 16:37:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iga-kuriata-photography/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Sep 2016 16:37:02 GMT</pubDate>
+        <pubDate>Fri, 23 Sep 2016 16:37:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[Test 2]]></title>
+            <description><![CDATA[<article><h1>Test 2</h1><p>Suspendisse potenti. Fusce sit amet metus nec magna rutrum suscipit. In vehicula ante at lorem ultricies, quis ornare arcu consectetur. Quisque vitae ullamcorper urna. Phasellus ut aliquet eros, eu tempus leo. Donec efficitur mi diam, et luctus sem mattis varius. Quisque quis facilisis libero. Nullam nisi mi, suscipit eu fermentum ut, euismod in tortor.</p></article>]]></description>
+            <link>https://thegrid.ai/iga-kuriata-photography/test-2/index.html</link>
+            <guid isPermaLink="false">3731fc38-f3f5-4446-be7b-943909b9666f</guid>
+            <pubDate>Fri, 23 Sep 2016 16:37:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My first post]]></title>
             <description><![CDATA[<article><h1>My first post</h1><p>By: Iga Kuriata</p></article>]]></description>
