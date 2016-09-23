@@ -31,6 +31,9 @@ navigation:
   - name: Gladiators
     id: baeab329-c003-4797-b54f-c55d4b9877ae
     type: content
+  - name: okok
+    id: 9b6a7a73-b0f8-4fe8-999b-217016f082d4
+    type: content
 purpose:
   - type: contact
     url: 'tel:004552692616'
