@@ -34,6 +34,9 @@ navigation:
   - name: okok
     id: 9b6a7a73-b0f8-4fe8-999b-217016f082d4
     type: content
+  - name: My first post
+    id: 15a64454-cf80-499a-baba-83ad81e70b20
+    type: content
 purpose:
   - type: contact
     url: 'tel:004552692616'
