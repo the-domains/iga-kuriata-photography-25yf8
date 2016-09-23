@@ -37,6 +37,9 @@ navigation:
   - name: My first post
     id: 15a64454-cf80-499a-baba-83ad81e70b20
     type: content
+  - name: Test 2
+    id: 3731fc38-f3f5-4446-be7b-943909b9666f
+    type: content
 purpose:
   - type: contact
     url: 'tel:004552692616'
