@@ -40,6 +40,9 @@ navigation:
   - name: Test 2
     id: 3731fc38-f3f5-4446-be7b-943909b9666f
     type: content
+  - name: yoyo
+    id: 49eaf64a-9543-4d35-9b76-b1bb3978ac63
+    type: content
 purpose:
   - type: contact
     url: 'tel:004552692616'
